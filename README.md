@@ -14,8 +14,8 @@ This project is an API for managing todos  and features for testing, linting, an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/megalcastro/product-api.git
-   cd product-api
+   git clone https://github.com/megalcastro/backend-todo.git
+   cd backend-todo
    ```
 
 ## Environment Variables
